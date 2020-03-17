@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Top Actor App</string>
+    <string name="title_home">Home</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_actor">Actors</string>
+    <string name="title_rating">Rating</string>
+
+</resources>
